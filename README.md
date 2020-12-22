@@ -1,4 +1,4 @@
-## Stock_prices_forecasting
+## Stock Prices Forecasting
 
 #### The importQuotes function accepts 3 string inputs - (1) Stock Ticker Symbol, (2) Start date and (3) End Date to return the Stock's closing prices between given date range as numpy object; used quandl.get function from Quandl
 
